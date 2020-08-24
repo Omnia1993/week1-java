@@ -56,8 +56,6 @@ public class Loops {
 
             if (name.charAt(1) == 'a') {
                 charAt1++;
-
-
             }
             if (name.endsWith("e")) {
                 endWithE++;
