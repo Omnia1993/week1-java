@@ -82,5 +82,7 @@ public class Person {
         this.lastName = lastName;
         Dof = dof;
         this.wight = wight;
+
+
     }
 }
